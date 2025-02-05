@@ -1,0 +1,1 @@
+# This app takes data from weather api and show that in streamlit web page as a line graphic and images. You can select the day grom 1 to 5 and this app shows the weather or temperature as an image or line graphic.
